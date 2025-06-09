@@ -1,0 +1,65 @@
+name: memory
+description: "Memory game"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  flame: ^1.29.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/logo.jpg
+    - assets/images/logo_blanc.png
+    - assets/images/back.jpg
+    - assets/images/cat_01.jpg
+    - assets/images/cat_02.jpg
+    - assets/images/cat_03.jpg
+    - assets/images/cat_04.jpg
+    - assets/images/cat_05.jpg
+    - assets/images/cat_06.jpg
+    - assets/images/cat_07.jpg
+    - assets/images/cat_08.jpg
+    - assets/images/cat_09.jpg
+    - assets/images/cat_10.jpg
+    - assets/images/cat_11.jpg
+    - assets/images/cat_12.jpg
+    - assets/images/cat_13.jpg
+    - assets/images/cat_14.jpg
+    - assets/images/cat_15.jpg
+    - assets/images/cat_16.jpg
+    - assets/images/cat_17.jpg
+    - assets/images/cat_18.jpg
+
+  fonts:
+    - family: FrederickatheGreat
+      fonts:
+        - asset: fonts/FrederickatheGreat-Regular.ttf
+    - family: InknutAntiqua
+      fonts:
+        - asset: fonts/InknutAntiqua-Regular.ttf
+        - asset: fonts/InknutAntiqua-Light.ttf
+          weight: 400
+        - asset: fonts/InknutAntiqua-SemiBold.ttf
+          weight: 600
+        - asset: fonts/InknutAntiqua-Medium.ttf
+          weight: 700
+        - asset: fonts/InknutAntiqua-Bold.ttf
+          weight: 800
+        - asset: fonts/InknutAntiqua-ExtraBold.ttf
+          weight: 900
+
+
