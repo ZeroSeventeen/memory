@@ -1,6 +1,10 @@
 # memory
 
 # Memory game
+
+## Видео-демонстрация работы
+
+https://drive.google.com/file/d/1FZF9EIBzwNrS9IOJGLo5NOX-mCNAWpVR/view?usp=sharing
  
 ## Правила игры
 
